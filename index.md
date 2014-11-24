@@ -17,7 +17,9 @@ The [subcountry:status.csv](https://github.com/OHI-Science/subcountry/blob/gh-pa
 
 <script type="text/javascript">
 $(document).ready(function(){
-  $('#status_tbl').DataTable();
+  $('#status_tbl').DataTable({
+    "paging":   false
+  });
 });
 </script>
 <!-- original from jekyll new
