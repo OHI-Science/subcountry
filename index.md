@@ -12,7 +12,7 @@ The following table is linked with:
 {: #status_tbl .display}
 | Repo | Study Area | Status | Last Mod | Map | Regions |
 |------|------------|--------|----------|-----|---------|
-{% for r in site.data.status %}| [{{ r.repo }}](http://ohi-science.org/{{ r.repo }}) | {{ r.study_area }} | {{ r.status }} | [{% if r.last_mod %}{{ r.last_mod }}{% else %}---{% endif %}](http://github.com/OHI-Science/{{ r.repo }}) | [![]({{ r.map_url }})](https://github.com/OHI-Science/{{ r.repo }}/blob/draft/subcountry2014/spatial/regions_gcs.geojson) | {{ r.n_regions }} |
+{% for r in site.data.status %}| [{{ r.repo }}](http://ohi-science.org/{{ r.repo }}) | {{ r.study_area }} | {{ r.status }} | [{% if r.last_mod != "" %}{{ r.last_mod }}{% else %}---{% endif %}](http://github.com/OHI-Science/{{ r.repo }}) | [![]({{ r.map_url }})](https://github.com/OHI-Science/{{ r.repo }}/blob/draft/subcountry2014/spatial/regions_gcs.geojson) | {{ r.n_regions }} |
 {% endfor %}
 
 <script type="text/javascript">
