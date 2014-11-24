@@ -69,7 +69,7 @@
 "gha","Ghana","[![](https://api.travis-ci.org/OHI-Science/gha.svg?branch=draft)](https://travis-ci.org/OHI-Science/gha/branches)","2014-11-24","fac8258","automatically calculate_scores from commit 668e7622e1ceebb9db764a7ebc5f925039672b33 [ci_skip]","http://ohi-science.org/gha/images/regions_30x20.png",4
 "gib","Gibraltar","[![](https://api.travis-ci.org/OHI-Science/gib.svg?branch=draft)](https://travis-ci.org/OHI-Science/gib/branches)","2014-11-24","573cbf2","automatically calculate_scores from commit abba5f3dafdf9ecec221c2e10a7aead2d7914827 [ci_skip]","http://ohi-science.org/gib/images/regions_30x20.png",1
 "gin","Guinea","[![](https://api.travis-ci.org/OHI-Science/gin.svg?branch=draft)](https://travis-ci.org/OHI-Science/gin/branches)","2014-11-24","7034df9","automatically calculate_scores from commit 763de7e18f0d1e8624a213d79a4dde81963c8586 [ci_skip]","http://ohi-science.org/gin/images/regions_30x20.png",3
-"gmb","Gambia","","","","","",
+"gmb","Gambia","[![](https://api.travis-ci.org/OHI-Science/gmb.svg?branch=draft)](https://travis-ci.org/OHI-Science/gmb/branches)","2014-11-24","c2525e3","automatically calculate_scores from commit bb1a16da9880a756b52080c32587328773ed14f7 [ci_skip]","http://ohi-science.org/gmb/images/regions_30x20.png",4
 "gnb","Guinea Bissau","","","","","",
 "gnq","Equatorial Guinea","","","","","",
 "grc","Greece","","","","","",
