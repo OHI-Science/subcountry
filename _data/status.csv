@@ -109,7 +109,7 @@
 "ltu","Lithuania","","","","","",
 "lva","Latvia","","","","","",
 "maf","Northern Saint-Martin","","","","","",
-"mar","Morocco","","","","","",
+"mar","Morocco","[![](https://api.travis-ci.org/OHI-Science/mar.svg?branch=draft)](https://travis-ci.org/OHI-Science/mar/branches)","2014-11-24","a189a61","automatically calculate_scores from commit e0fb1c809be4543b26396726894742b7e3693569 [ci_skip]","http://ohi-science.org/mar/images/regions_30x20.png",12
 "mco","Monaco","","","","","",
 "mdg","Madagascar","","","","","",
 "mdv","Maldives","","","","","",
