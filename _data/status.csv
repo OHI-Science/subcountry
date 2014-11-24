@@ -67,7 +67,7 @@
 "geo","Georgia","","","","","",
 "ggy","Guernsey","","","","","",
 "gha","Ghana","[![](https://api.travis-ci.org/OHI-Science/gha.svg?branch=draft)](https://travis-ci.org/OHI-Science/gha/branches)","2014-11-24","fac8258","automatically calculate_scores from commit 668e7622e1ceebb9db764a7ebc5f925039672b33 [ci_skip]","http://ohi-science.org/gha/images/regions_30x20.png",4
-"gib","Gibraltar","","","","","",
+"gib","Gibraltar","[![](https://api.travis-ci.org/OHI-Science/gib.svg?branch=draft)](https://travis-ci.org/OHI-Science/gib/branches)","2014-11-24","573cbf2","automatically calculate_scores from commit abba5f3dafdf9ecec221c2e10a7aead2d7914827 [ci_skip]","http://ohi-science.org/gib/images/regions_30x20.png",1
 "gin","Guinea","","","","","",
 "gmb","Gambia","","","","","",
 "gnb","Guinea Bissau","","","","","",
