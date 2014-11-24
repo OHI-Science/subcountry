@@ -1,7 +1,7 @@
 "repo","study_area","status","last_mod","last_sha","last_msg","map_url","n_regions"
 "abw","Aruba","[![](https://api.travis-ci.org/OHI-Science/abw.svg?branch=draft)](https://travis-ci.org/OHI-Science/abw/branches)","2014-11-24","83163e0","Update README.md","http://ohi-science.org/abw/images/regions_30x20.png",1
 "ago","Angola","[![](https://api.travis-ci.org/OHI-Science/ago.svg?branch=draft)](https://travis-ci.org/OHI-Science/ago/branches)","2014-11-24","b045e0d","Update README.md","http://ohi-science.org/ago/images/regions_30x20.png",7
-"aia","Anguilla","[![](https://api.travis-ci.org/OHI-Science/aia.svg?branch=draft)](https://travis-ci.org/OHI-Science/aia/branches)","2014-11-24","803a765","automatically calculate_scores from commit 6e648f5ac5d4e1dcdda60050d6213aa9b02dbd41","http://ohi-science.org/aia/images/regions_30x20.png",1
+"aia","Anguilla","[![](https://api.travis-ci.org/OHI-Science/aia.svg?branch=draft)](https://travis-ci.org/OHI-Science/aia/branches)","2014-11-24","1da9c68","Update README.md","http://ohi-science.org/aia/images/regions_30x20.png",1
 "alb","Albania","[![](https://api.travis-ci.org/OHI-Science/alb.svg?branch=draft)](https://travis-ci.org/OHI-Science/alb/branches)","2014-11-24","f16cdc7","Update README.md","http://ohi-science.org/alb/images/regions_30x20.png",6
 "ant","Sint Eustatius","","","","","",
 "are","United Arab Emirates","","","","","",
