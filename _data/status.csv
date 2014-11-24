@@ -49,7 +49,7 @@
 "dma","Dominica","[![](https://api.travis-ci.org/OHI-Science/dma.svg?branch=draft)](https://travis-ci.org/OHI-Science/dma/branches)","2014-11-24","14148f6","automatically calculate_scores from commit d8ccbb47f05f6a911dbc6f0b9c460d0991c42d34 [ci_skip]","http://ohi-science.org/dma/images/regions_30x20.png",10
 "dnk","Denmark","","","","","",
 "dom","Dominican Republic","[![](https://api.travis-ci.org/OHI-Science/dom.svg?branch=draft)](https://travis-ci.org/OHI-Science/dom/branches)","2014-11-24","467f25f","automatically calculate_scores from commit d691937c9801c1be1fb751bd3188adb09f49fb7b [ci_skip]","http://ohi-science.org/dom/images/regions_30x20.png",17
-"dza","Algeria","","","","","",
+"dza","Algeria","[![](https://api.travis-ci.org/OHI-Science/dza.svg?branch=draft)](https://travis-ci.org/OHI-Science/dza/branches)","2014-11-24","d0cdc8f","automatically calculate_scores from commit 82c40ad77e7195b44425af412ba1488e00ca894d [ci_skip]","http://ohi-science.org/dza/images/regions_30x20.png",14
 "ecu","Ecuador","[![](https://api.travis-ci.org/OHI-Science/ecu.svg?branch=draft)](https://travis-ci.org/OHI-Science/ecu/branches)","2014-11-23","dc4099f","Update .travis.yml","http://ohi-science.org/ecu/images/regions_30x20.png",5
 "egy","Egypt","","","","","",
 "eri","Eritrea","","","","","",
