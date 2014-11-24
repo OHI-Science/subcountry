@@ -41,7 +41,7 @@
 "cri","Costa Rica","[![](https://api.travis-ci.org/OHI-Science/cri.svg?branch=draft)](https://travis-ci.org/OHI-Science/cri/branches)","2014-11-24","91d4f6c","automatically calculate_scores from commit 64c63f8f252392ac49fb525f5f86aa7d5ff56f33 [ci_skip]","http://ohi-science.org/cri/images/regions_30x20.png",3
 "cub","Cuba","[![](https://api.travis-ci.org/OHI-Science/cub.svg?branch=draft)](https://travis-ci.org/OHI-Science/cub/branches)","2014-11-24","a8481f8","automatically calculate_scores from commit 1317a4863279bae49119a335534c9f7a772db895 [ci_skip]","http://ohi-science.org/cub/images/regions_30x20.png",15
 "cuw","Curacao","","","","","",
-"cxr","Christmas Island","","","","","",
+"cxr","Christmas Island","[![](https://api.travis-ci.org/OHI-Science/cxr.svg?branch=draft)](https://travis-ci.org/OHI-Science/cxr/branches)","2014-11-24","e11e8ae","automatically calculate_scores from commit 415611e0aec897ea4ef5d1f211027af321abb534 [ci_skip]","http://ohi-science.org/cxr/images/regions_30x20.png",1
 "cym","Cayman Islands","","","","","",
 "cyp","Cyprus","","","","","",
 "deu","Germany","","","","","",
