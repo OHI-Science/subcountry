@@ -113,7 +113,7 @@
 "mco","Monaco","","","","","",
 "mdg","Madagascar","[![](https://api.travis-ci.org/OHI-Science/mdg.svg?branch=draft)](https://travis-ci.org/OHI-Science/mdg/branches)","2014-11-24","3fd0632","automatically calculate_scores from commit b94f4fe0dc5569297ce350f325f60f90ce3f2023 [ci_skip]","http://ohi-science.org/mdg/images/regions_30x20.png",5
 "mdv","Maldives","[![](https://api.travis-ci.org/OHI-Science/mdv.svg?branch=draft)](https://travis-ci.org/OHI-Science/mdv/branches)","2014-11-24","cfef324","automatically calculate_scores from commit 9aa59b0c837c5b28483d56f8568512c29fa715da [ci_skip]","http://ohi-science.org/mdv/images/regions_30x20.png",1
-"mex","Mexico","","","","","",
+"mex","Mexico","[![](https://api.travis-ci.org/OHI-Science/mex.svg?branch=draft)](https://travis-ci.org/OHI-Science/mex/branches)","2014-11-24","f4a0445","automatically calculate_scores from commit ad720f07d309295c4b7d7e0e2a1f18873ec29a99 [ci_skip]","http://ohi-science.org/mex/images/regions_30x20.png",17
 "mhl","Marshall Islands","","","","","",
 "mlt","Malta","","","","","",
 "mmr","Myanmar","","","","","",
