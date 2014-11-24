@@ -66,7 +66,7 @@
 "gbr","United Kingdom","","","","","",
 "geo","Georgia","","","","","",
 "ggy","Guernsey","","","","","",
-"gha","Ghana","","","","","",
+"gha","Ghana","[![](https://api.travis-ci.org/OHI-Science/gha.svg?branch=draft)](https://travis-ci.org/OHI-Science/gha/branches)","2014-11-24","fac8258","automatically calculate_scores from commit 668e7622e1ceebb9db764a7ebc5f925039672b33 [ci_skip]","http://ohi-science.org/gha/images/regions_30x20.png",4
 "gib","Gibraltar","","","","","",
 "gin","Guinea","","","","","",
 "gmb","Gambia","","","","","",
