@@ -23,7 +23,7 @@
 "bmu","Bermuda","","","","","",
 "bra","Brazil","","","","","",
 "brb","Barbados","[![](https://api.travis-ci.org/OHI-Science/brb.svg?branch=draft)](https://travis-ci.org/OHI-Science/brb/branches)","2014-11-24","2584c58","automatically calculate_scores from commit 46a15fc60c25d160691849a4fc763823f4572992 [ci_skip]","http://ohi-science.org/brb/images/regions_30x20.png",9
-"brn","Brunei","[![](https://api.travis-ci.org/OHI-Science/brn.svg?branch=draft)](https://travis-ci.org/OHI-Science/brn/branches)","2014-11-24","c95357a","automatically calculate_scores from commit 95aa48cf680d5f7830971038becfac1e5ef359e7 [ci_skip]","http://ohi-science.org/brn/images/regions_30x20.png",4
+"brn","Brunei","[![](https://api.travis-ci.org/OHI-Science/brn.svg?branch=draft)](https://travis-ci.org/OHI-Science/brn/branches)","2014-11-24","e05161e","automatically calculate_scores from commit 9935a4009dc34edca965d3e3b06ed889ab307589 [ci_skip]","http://ohi-science.org/brn/images/regions_30x20.png",4
 "bvt","Bouvet Island","","","","","",
 "can","Canada","","","","","",
 "cck","Cocos Islands","[![](https://api.travis-ci.org/OHI-Science/cck.svg?branch=draft)](https://travis-ci.org/OHI-Science/cck/branches)","2014-11-24","5dbb18c","automatically calculate_scores from commit 403aca89d1210e26cb3f5d3a5396f715e3c2e4c0 [ci_skip]","http://ohi-science.org/cck/images/regions_30x20.png",1
