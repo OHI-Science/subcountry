@@ -93,7 +93,7 @@
 "ita","Italy","","","","","",
 "jam","Jamaica","","","","","",
 "jey","Jersey","","","","","",
-"jor","Jordan","","","","","",
+"jor","Jordan","[![](https://api.travis-ci.org/OHI-Science/jor.svg?branch=draft)](https://travis-ci.org/OHI-Science/jor/branches)","2014-11-24","4c2b204","automatically calculate_scores from commit 88c903d39505d20b086440eec6664e49e68ae007 [ci_skip]","http://ohi-science.org/jor/images/regions_30x20.png",1
 "jpn","Japan","","","","","",
 "ken","Kenya","","","","","",
 "khm","Cambodia","","","","","",
