@@ -100,7 +100,7 @@
 "kir","Kiribati","","","","","",
 "kna","Saint Kitts and Nevis","","","","","",
 "kor","South Korea","","","","","",
-"kwt","Kuwait","","","","","",
+"kwt","Kuwait","[![](https://api.travis-ci.org/OHI-Science/kwt.svg?branch=draft)](https://travis-ci.org/OHI-Science/kwt/branches)","2014-11-24","1be8e82","automatically calculate_scores from commit 7f7194a1700f330d0dab0abf72824bdb44d36d85 [ci_skip]","http://ohi-science.org/kwt/images/regions_30x20.png",4
 "lbn","Lebanon","","","","","",
 "lbr","Liberia","","","","","",
 "lby","Libya","","","","","",
