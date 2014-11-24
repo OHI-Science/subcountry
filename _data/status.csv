@@ -22,7 +22,7 @@
 "blz","Belize","[![](https://api.travis-ci.org/OHI-Science/blz.svg?branch=draft)](https://travis-ci.org/OHI-Science/blz/branches)","2014-11-24","de5af37","automatically calculate_scores from commit 9cf957f272e784f557eb75a3a9e5bf7b4677d5d5 [ci_skip]","http://ohi-science.org/blz/images/regions_30x20.png",4
 "bmu","Bermuda","","","","","",
 "bra","Brazil","","","","","",
-"brb","Barbados","","","","","",
+"brb","Barbados","[![](https://api.travis-ci.org/OHI-Science/brb.svg?branch=draft)](https://travis-ci.org/OHI-Science/brb/branches)","2014-11-24","8a71716","automatically calculate_scores from commit 252ed085b9fed7673e8c7383fef0bd303776670f [ci_skip]","http://ohi-science.org/brb/images/regions_30x20.png",9
 "brn","Brunei","","","","","",
 "bvt","Bouvet Island","","","","","",
 "can","Canada","","","","","",
