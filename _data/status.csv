@@ -1,5 +1,5 @@
 "repo","study_area","status","last_mod","last_sha","last_msg","map_url","n_regions"
-"abw","Aruba","[![](https://api.travis-ci.org/OHI-Science/abw.svg?branch=draft)](https://travis-ci.org/OHI-Science/abw/branches)","2014-11-23","9f746e9","added .travis.yml manually","http://ohi-science.org/abw/images/regions_30x20.png",1
+"abw","Aruba","[![](https://api.travis-ci.org/OHI-Science/abw.svg?branch=draft)](https://travis-ci.org/OHI-Science/abw/branches)","2014-11-23","3b85c25","automatically calculate_scores from commit 9f746e9bcf61b512feb9f8347af6714d0e74299d","http://ohi-science.org/abw/images/regions_30x20.png",1
 "ago","Angola","","","","","",
 "aia","Anguilla","","","","","",
 "alb","Albania","[![](https://api.travis-ci.org/OHI-Science/alb.svg?branch=draft)](https://travis-ci.org/OHI-Science/alb/branches)","","","","",
