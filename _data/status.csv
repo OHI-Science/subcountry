@@ -50,7 +50,7 @@
 "dnk","Denmark","","","","","",
 "dom","Dominican Republic","","","","","",
 "dza","Algeria","","","","","",
-"ecu","Ecuador","[![](https://api.travis-ci.org/OHI-Science/ecu.svg?branch=draft)](https://travis-ci.org/OHI-Science/ecu/branches)","2014-11-23","a2fc505"," goals self_contained: false","http://ohi-science.org/ecu/images/regions_30x20.png",5
+"ecu","Ecuador","[![](https://api.travis-ci.org/OHI-Science/ecu.svg?branch=draft)](https://travis-ci.org/OHI-Science/ecu/branches)","2014-11-23","dc4099f","Update .travis.yml","http://ohi-science.org/ecu/images/regions_30x20.png",5
 "egy","Egypt","","","","","",
 "eri","Eritrea","","","","","",
 "esh","Western Sahara","","","","","",
