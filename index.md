@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The following table is linked with:
+The [subcountry:status.csv](https://github.com/OHI-Science/subcountry/blob/gh-pages/_data/status.csv) table is displayed below with the following links:
 
 - **Repo**: published website (from the gh-pages branch)
 - **Status**: the Travis log summary of branches (draft and gh-pages)
