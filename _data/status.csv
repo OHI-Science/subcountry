@@ -76,7 +76,7 @@
 "grd","Grenada","[![](https://api.travis-ci.org/OHI-Science/grd.svg?branch=draft)](https://travis-ci.org/OHI-Science/grd/branches)","2014-11-24","fdd6817","automatically calculate_scores from commit d53b6b3bc0e9f55db94a81b03a3ce28515fd109d [ci_skip]","http://ohi-science.org/grd/images/regions_30x20.png",7
 "grl","Greenland","","","","","",
 "gtm","Guatemala","","","","","",
-"guf","French Guiana","","","","","",
+"guf","French Guiana","[![](https://api.travis-ci.org/OHI-Science/guf.svg?branch=draft)](https://travis-ci.org/OHI-Science/guf/branches)","2014-11-24","56625d7","automatically calculate_scores from commit 3696619e6f65f6db3f6b1c02047a24872debae71 [ci_skip]","http://ohi-science.org/guf/images/regions_30x20.png",2
 "guy","Guyana","","","","","",
 "hmd","Heard and McDonald Islands","","","","","",
 "hnd","Honduras","","","","","",
