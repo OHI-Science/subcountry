@@ -43,7 +43,7 @@
 "cuw","Curacao","","","","","",
 "cxr","Christmas Island","[![](https://api.travis-ci.org/OHI-Science/cxr.svg?branch=draft)](https://travis-ci.org/OHI-Science/cxr/branches)","2014-11-24","cfecb45","automatically calculate_scores from commit a090f46c18dc82f17e2845b17ffdb90268f7eb02 [ci_skip]","http://ohi-science.org/cxr/images/regions_30x20.png",1
 "cym","Cayman Islands","[![](https://api.travis-ci.org/OHI-Science/cym.svg?branch=draft)](https://travis-ci.org/OHI-Science/cym/branches)","2014-11-24","dde4d5e","automatically calculate_scores from commit 16fc1622cf84568848583e2d0be1732b2fb4e13e [ci_skip]","http://ohi-science.org/cym/images/regions_30x20.png",7
-"cyp","Cyprus","[![](https://api.travis-ci.org/OHI-Science/cyp.svg?branch=draft)](https://travis-ci.org/OHI-Science/cyp/branches)","2014-11-24","42d30ed","automatically calculate_scores from commit 861b2055b031e55bd399f3552e812401eea43f7b [ci_skip]","http://ohi-science.org/cyp/images/regions_30x20.png",6
+"cyp","Cyprus","[![](https://api.travis-ci.org/OHI-Science/cyp.svg?branch=draft)](https://travis-ci.org/OHI-Science/cyp/branches)","2014-11-24","471b81c","automatically calculate_scores from commit 6995b6e10d9c0621f128ef284d7d17e459787415 [ci_skip]","http://ohi-science.org/cyp/images/regions_30x20.png",6
 "deu","Germany","","","","","",
 "dji","Djibouti","","","","","",
 "dma","Dominica","[![](https://api.travis-ci.org/OHI-Science/dma.svg?branch=draft)](https://travis-ci.org/OHI-Science/dma/branches)","2014-11-24","14148f6","automatically calculate_scores from commit d8ccbb47f05f6a911dbc6f0b9c460d0991c42d34 [ci_skip]","http://ohi-science.org/dma/images/regions_30x20.png",10
