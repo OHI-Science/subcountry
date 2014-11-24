@@ -34,7 +34,7 @@
 "cod","Democratic Republic of the Congo","[![](https://api.travis-ci.org/OHI-Science/cod.svg?branch=draft)](https://travis-ci.org/OHI-Science/cod/branches)","2014-11-24","028cf7d","automatically calculate_scores from commit f9f35833959875e8fdc47cf893dcf8ff48f0fe49 [ci_skip]","http://ohi-science.org/cod/images/regions_30x20.png",1
 "cog","Republique du Congo","","","","","",
 "cok","Cook Islands","","","","","",
-"col","Colombia","","","","","",
+"col","Colombia","[![](https://api.travis-ci.org/OHI-Science/col.svg?branch=draft)](https://travis-ci.org/OHI-Science/col/branches)","2014-11-24","2d3fb5d","automatically calculate_scores from commit cf172459d39a708280f841f2c1a760918a7d4056 [ci_skip]","http://ohi-science.org/col/images/regions_30x20.png",12
 "com","Comoro Islands","","","","","",
 "cpt","Clipperton Island","","","","","",
 "cpv","Cape Verde","","","","","",
