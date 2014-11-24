@@ -31,7 +31,7 @@
 "chn","China","","","","","",
 "civ","Ivory Coast","","","","","",
 "cmr","Cameroon","[![](https://api.travis-ci.org/OHI-Science/cmr.svg?branch=draft)](https://travis-ci.org/OHI-Science/cmr/branches)","2014-11-24","fee5a77","automatically calculate_scores from commit ef7c4e80fbbdd5d376787539af65634cbd3ec87b [ci_skip]","http://ohi-science.org/cmr/images/regions_30x20.png",3
-"cod","Democratic Republic of the Congo","","","","","",
+"cod","Democratic Republic of the Congo","[![](https://api.travis-ci.org/OHI-Science/cod.svg?branch=draft)](https://travis-ci.org/OHI-Science/cod/branches)","2014-11-24","028cf7d","automatically calculate_scores from commit f9f35833959875e8fdc47cf893dcf8ff48f0fe49 [ci_skip]","http://ohi-science.org/cod/images/regions_30x20.png",1
 "cog","Republique du Congo","","","","","",
 "cok","Cook Islands","","","","","",
 "col","Colombia","","","","","",
