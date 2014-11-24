@@ -3,7 +3,7 @@ title: OHI-Science Subcountry Status
 email: ohi-science@nceas.ucsb.edu
 description: > # this means to ignore newlines until "baseurl:"
   Ocean Health Index status of subcountry repositories.
-baseurl: "subcountry" # the subpath of your site, e.g. /blog/
+baseurl: "/subcountry" # the subpath of your site, e.g. /blog/
 url: "http://ohi-science.org" # the base hostname & protocol for your site
 twitter_username: OceanHealthIndx
 github_username:  OHI-Science
