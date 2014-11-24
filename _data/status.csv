@@ -17,7 +17,7 @@
 "bgd","Bangladesh","[![](https://api.travis-ci.org/OHI-Science/bgd.svg?branch=draft)](https://travis-ci.org/OHI-Science/bgd/branches)","2014-11-24","541be82","automatically calculate_scores from commit ef33ee887099d07900f3e007033bd827838f38cb [ci_skip]","http://ohi-science.org/bgd/images/regions_30x20.png",3
 "bgr","Bulgaria","[![](https://api.travis-ci.org/OHI-Science/bgr.svg?branch=draft)](https://travis-ci.org/OHI-Science/bgr/branches)","2014-11-24","e87e784","automatically calculate_scores from commit 231b760265bb457837f604a9a6d2bd96067c9eda [ci_skip]","http://ohi-science.org/bgr/images/regions_30x20.png",3
 "bhr","Bahrain","[![](https://api.travis-ci.org/OHI-Science/bhr.svg?branch=draft)](https://travis-ci.org/OHI-Science/bhr/branches)","2014-11-24","27a6aee","automatically calculate_scores from commit cc2610c530f288d86bb6cdc477516352322ea86d [ci_skip]","http://ohi-science.org/bhr/images/regions_30x20.png",5
-"bhs","Bahamas","","","","","",
+"bhs","Bahamas","[![](https://api.travis-ci.org/OHI-Science/bhs.svg?branch=draft)](https://travis-ci.org/OHI-Science/bhs/branches)","2014-11-24","0c43e3e","automatically calculate_scores from commit 199d1f5d31f93c919ced6251e512daef3a7cedbf [ci_skip]","http://ohi-science.org/bhs/images/regions_30x20.png",32
 "bih","Bosnia and Herzegovina","","","","","",
 "blz","Belize","","","","","",
 "bmu","Bermuda","","","","","",
