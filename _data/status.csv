@@ -125,7 +125,7 @@
 "mus","Mauritius","","","","","",
 "mys","Malaysia","[![](https://api.travis-ci.org/OHI-Science/mys.svg?branch=draft)](https://travis-ci.org/OHI-Science/mys/branches)","2014-11-24","ed0d0c9","automatically calculate_scores from commit 333a1de704ca8e267ca727bf738970b854c20feb [ci_skip]","http://ohi-science.org/mys/images/regions_30x20.png",13
 "myt","Mayotte","","","","","",
-"nam","Namibia","","","","","",
+"nam","Namibia","[![](https://api.travis-ci.org/OHI-Science/nam.svg?branch=draft)](https://travis-ci.org/OHI-Science/nam/branches)","2014-11-24","7a4a84e","automatically calculate_scores from commit ad42f68ecc90a05cb45801d0941e0e8c6b9c26a8 [ci_skip]","http://ohi-science.org/nam/images/regions_30x20.png",4
 "ncl","New Caledonia","","","","","",
 "nfk","Norfolk Island","","","","","",
 "nga","Nigeria","","","","","",
