@@ -11,7 +11,7 @@
 "ata","Antarctica","","","","","",
 "atg","Antigua and Barbuda","","","","","",
 "aus","Australia","","","","","",
-"bel","Belgium","","","","","",
+"bel","Belgium","[![](https://api.travis-ci.org/OHI-Science/bel.svg?branch=draft)](https://travis-ci.org/OHI-Science/bel/branches)","2014-11-24","e6d1ac7","automatically calculate_scores from commit b675a8ba82c0037128075bda55282adf4cdd732f [ci_skip]","http://ohi-science.org/bel/images/regions_30x20.png",1
 "ben","Benin","","","","","",
 "bes","Saba","","","","","",
 "bgd","Bangladesh","","","","","",
