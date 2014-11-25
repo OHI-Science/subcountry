@@ -144,7 +144,7 @@
 "plw","Palau","[![](https://api.travis-ci.org/OHI-Science/plw.svg?branch=draft)](https://travis-ci.org/OHI-Science/plw/branches)","2014-11-25","1999932","automatically calculate_scores from commit 71e9e3aac10c4b71391d67afb58a02cf27b67507 [ci_skip]","http://ohi-science.org/plw/images/regions_30x20.png",13
 "png","Papua New Guinea","[![](https://api.travis-ci.org/OHI-Science/png.svg?branch=draft)](https://travis-ci.org/OHI-Science/png/branches)","2014-11-24","fd4bea9","automatically calculate_scores from commit c701cac5e8a85b41a951f81bbe7d6e0a72a5576c [ci_skip]","http://ohi-science.org/png/images/regions_30x20.png",14
 "pol","Poland","","","","","",
-"prk","North Korea","","","","","",
+"prk","North Korea","[![](https://api.travis-ci.org/OHI-Science/prk.svg?branch=draft)](https://travis-ci.org/OHI-Science/prk/branches)","2014-11-24","b519668","automatically calculate_scores from commit 01ea1af22695b8f1fe77b67ee848444cb6ba6774 [ci_skip]","http://ohi-science.org/prk/images/regions_30x20.png",8
 "prt","Portugal","","","","","",
 "pyf","French Polynesia","","","","","",
 "qat","Qatar","","","","","",
