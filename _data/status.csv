@@ -125,7 +125,7 @@
 "mus","Mauritius","","","","","",
 "mys","Malaysia","[![](https://api.travis-ci.org/OHI-Science/mys.svg?branch=draft)](https://travis-ci.org/OHI-Science/mys/branches)","2014-11-24","17afe15","automatically calculate_scores from commit 386e7c2bfe5e773667db2280f59a5cc11bb6b23b [ci_skip]","http://ohi-science.org/mys/images/regions_30x20.png",13
 "myt","Mayotte","","","","","",
-"nam","Namibia","[![](https://api.travis-ci.org/OHI-Science/nam.svg?branch=draft)](https://travis-ci.org/OHI-Science/nam/branches)","2014-11-24","7a4a84e","automatically calculate_scores from commit ad42f68ecc90a05cb45801d0941e0e8c6b9c26a8 [ci_skip]","http://ohi-science.org/nam/images/regions_30x20.png",4
+"nam","Namibia","[![](https://api.travis-ci.org/OHI-Science/nam.svg?branch=draft)](https://travis-ci.org/OHI-Science/nam/branches)","2014-11-25","f49ad15","automatically calculate_scores from commit 0fda95966f4fa54d0dc9c497933e7c53bdd8aac0 [ci_skip]","http://ohi-science.org/nam/images/regions_30x20.png",4
 "ncl","New Caledonia","[![](https://api.travis-ci.org/OHI-Science/ncl.svg?branch=draft)](https://travis-ci.org/OHI-Science/ncl/branches)","2014-11-24","e8ebe64","automatically calculate_scores from commit d3df2fa441aedfb56581555f5a3baa26cb46ff85 [ci_skip]","http://ohi-science.org/ncl/images/regions_30x20.png",3
 "nfk","Norfolk Island","","","","","",
 "nga","Nigeria","","","","","",
