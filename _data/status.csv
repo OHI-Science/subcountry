@@ -140,7 +140,7 @@
 "pan","Panama","[![](https://api.travis-ci.org/OHI-Science/pan.svg?branch=draft)](https://travis-ci.org/OHI-Science/pan/branches)","2014-11-25","a9e260f","automatically calculate_scores from commit 41be7e944922fbfb9c17b0af32ecbf7abd52ee68 [ci_skip]","http://ohi-science.org/pan/images/regions_30x20.png",11
 "pcn","Pitcairn","","","","","",
 "per","Peru","[![](https://api.travis-ci.org/OHI-Science/per.svg?branch=draft)](https://travis-ci.org/OHI-Science/per/branches)","2014-11-24","f24ddf5","automatically calculate_scores from commit ea3659a03f6d27928f9efe222925510f7a090d28 [ci_skip]","http://ohi-science.org/per/images/regions_30x20.png",11
-"phl","Philippines","","","","","",
+"phl","Philippines","[![](https://api.travis-ci.org/OHI-Science/phl.svg?branch=draft)](https://travis-ci.org/OHI-Science/phl/branches)","2014-11-24","85a258b","automatically calculate_scores from commit e1adf7914f7a2b76ce5d6c8bf11dd98d18e7632f [ci_skip]","http://ohi-science.org/phl/images/regions_30x20.png",67
 "plw","Palau","","","","","",
 "png","Papua New Guinea","","","","","",
 "pol","Poland","","","","","",
