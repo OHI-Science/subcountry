@@ -148,7 +148,7 @@
 "prt","Portugal","[![](https://api.travis-ci.org/OHI-Science/prt.svg?branch=draft)](https://travis-ci.org/OHI-Science/prt/branches)","2014-11-25","c64045b","automatically calculate_scores from commit c26b4e12cb5645cbc1a58d2ac01f45659858be56 [ci_skip]","http://ohi-science.org/prt/images/regions_30x20.png",11
 "pyf","French Polynesia","[![](https://api.travis-ci.org/OHI-Science/pyf.svg?branch=draft)](https://travis-ci.org/OHI-Science/pyf/branches)","2014-11-25","54d7619","automatically calculate_scores from commit a1d3faf57d7c1bdb2df999322af81d167d4724da [ci_skip]","http://ohi-science.org/pyf/images/regions_30x20.png",1
 "qat","Qatar","","","","","",
-"reu","Reunion","[![](https://api.travis-ci.org/OHI-Science/reu.svg?branch=draft)](https://travis-ci.org/OHI-Science/reu/branches)","2014-11-24","2add03c","automatically calculate_scores from commit a60a37ef86d4e39e313b8d2a3fd9475060c215a1 [ci_skip]","http://ohi-science.org/reu/images/regions_30x20.png",4
+"reu","Reunion","[![](https://api.travis-ci.org/OHI-Science/reu.svg?branch=draft)](https://travis-ci.org/OHI-Science/reu/branches)","2014-11-25","998ab74","automatically calculate_scores from commit fd5943fc4186e22041466cba2fab8cdb3137e1ca [ci_skip]","http://ohi-science.org/reu/images/regions_30x20.png",4
 "rou","Romania","","","","","",
 "rus","Russia","","","","","",
 "sau","Saudi Arabia","","","","","",
