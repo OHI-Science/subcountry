@@ -136,7 +136,7 @@
 "nru","Nauru","","","","","",
 "nzl","New Zealand","","","","","",
 "omn","Oman","","","","","",
-"pak","Pakistan","","","","","",
+"pak","Pakistan","[![](https://api.travis-ci.org/OHI-Science/pak.svg?branch=draft)](https://travis-ci.org/OHI-Science/pak/branches)","2014-11-24","24261c9","automatically calculate_scores from commit fcdbb6bd5d9fe866e2a1232d2f70014307c99dd5 [ci_skip]","http://ohi-science.org/pak/images/regions_30x20.png",2
 "pan","Panama","","","","","",
 "pcn","Pitcairn","","","","","",
 "per","Peru","","","","","",
