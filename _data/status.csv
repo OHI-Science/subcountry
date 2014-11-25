@@ -168,7 +168,7 @@
 "svn","Slovenia","","","","","",
 "swe","Sweden","[![](https://api.travis-ci.org/OHI-Science/swe.svg?branch=draft)](https://travis-ci.org/OHI-Science/swe/branches)","2014-11-25","3ae0b39","automatically calculate_scores from commit b80fe419e211171eb1d990f6736f94f0caa5b726 [ci_skip]","http://ohi-science.org/swe/images/regions_30x20.png",14
 "sxm","Sint Maarten","[![](https://api.travis-ci.org/OHI-Science/sxm.svg?branch=draft)](https://travis-ci.org/OHI-Science/sxm/branches)","2014-11-25","e1a1cef","automatically calculate_scores from commit 44f6840149730ec3c578db72090be5378bd6f235 [ci_skip]","http://ohi-science.org/sxm/images/regions_30x20.png",1
-"syc","Seychelles","","","","","",
+"syc","Seychelles","[![](https://api.travis-ci.org/OHI-Science/syc.svg?branch=draft)](https://travis-ci.org/OHI-Science/syc/branches)","2014-11-25","16a3424","automatically calculate_scores from commit 5ba60ca1845d2e090bccb03553e7eed7594671ff [ci_skip]","http://ohi-science.org/syc/images/regions_30x20.png",1
 "syr","Syria","","","","","",
 "taa","Tristan da Cunha","","","","","",
 "tca","Turks and Caicos Islands","","","","","",
