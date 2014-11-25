@@ -219,4 +219,4 @@
 "xpx","Phoenix Group","","","","","",
 "xwk","Wake Island","","","","","",
 "yem","Yemen","","","","","",
-"zaf","South Africa","","","","","",
+"zaf","South Africa","[![](https://api.travis-ci.org/OHI-Science/zaf.svg?branch=draft)](https://travis-ci.org/OHI-Science/zaf/branches)","2014-11-25","0338524","automatically calculate_scores from commit ca5cb8696a3ee8e84a48ce623c3cb28cfde3198f [ci_skip]","http://ohi-science.org/zaf/images/regions_30x20.png",4
