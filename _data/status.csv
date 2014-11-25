@@ -54,7 +54,7 @@
 "egy","Egypt","","","","","",
 "eri","Eritrea","","","","","",
 "esh","Western Sahara","","","","","",
-"esp","Spain","","","","","",
+"esp","Spain","[![](https://api.travis-ci.org/OHI-Science/esp.svg?branch=draft)](https://travis-ci.org/OHI-Science/esp/branches)","2014-11-25","a32feff","automatically calculate_scores from commit 3b5cf5ec8fd4e75ccd1164fe0ff98023e3c778ce [ci_skip]","http://ohi-science.org/esp/images/regions_30x20.png",10
 "est","Estonia","","","","","",
 "fin","Finland","","","","","",
 "fji","Fiji","","","","","",
