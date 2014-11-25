@@ -27,7 +27,7 @@
 "bvt","Bouvet Island","","","","","",
 "can","Canada","","","","","",
 "cck","Cocos Islands","[![](https://api.travis-ci.org/OHI-Science/cck.svg?branch=draft)](https://travis-ci.org/OHI-Science/cck/branches)","2014-11-24","62564ed","automatically calculate_scores from commit 2f28c25e754e973fb2bb73dd05b5ecc0a02fdd7f [ci_skip]","http://ohi-science.org/cck/images/regions_30x20.png",1
-"chl","Chile","","","","","",
+"chl","Chile","[![](https://api.travis-ci.org/OHI-Science/chl.svg?branch=draft)](https://travis-ci.org/OHI-Science/chl/branches)","2014-11-25","2ef317c","automatically calculate_scores from commit 8bb7a598d0a89466269f571202018b75c5be9140 [ci_skip]","http://ohi-science.org/chl/images/regions_30x20.png",12
 "chn","China","","","","","",
 "civ","Ivory Coast","","","","","",
 "cmr","Cameroon","[![](https://api.travis-ci.org/OHI-Science/cmr.svg?branch=draft)](https://travis-ci.org/OHI-Science/cmr/branches)","2014-11-24","4674692","automatically calculate_scores from commit df10dac22d425be760fcc10f4bb9e3d61eb08a39 [ci_skip]","http://ohi-science.org/cmr/images/regions_30x20.png",3
