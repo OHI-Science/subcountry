@@ -91,7 +91,7 @@
 "isl","Iceland","","","","","",
 "isr","Israel","","","","","",
 "ita","Italy","","","","","",
-"jam","Jamaica","","","","","",
+"jam","Jamaica","[![](https://api.travis-ci.org/OHI-Science/jam.svg?branch=draft)](https://travis-ci.org/OHI-Science/jam/branches)","2014-11-25","9f31af5","automatically calculate_scores from commit 75cd0c0cf60e996f8c550620295704e7c1cee2ed [ci_skip]","http://ohi-science.org/jam/images/regions_30x20.png",14
 "jey","Jersey","","","","","",
 "jor","Jordan","[![](https://api.travis-ci.org/OHI-Science/jor.svg?branch=draft)](https://travis-ci.org/OHI-Science/jor/branches)","2014-11-24","7a18d23","automatically calculate_scores from commit d64edbf240fd1ea99ef1951bebb2c2449b433006 [ci_skip]","http://ohi-science.org/jor/images/regions_30x20.png",1
 "jpn","Japan","","","","","",
