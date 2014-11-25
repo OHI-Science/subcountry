@@ -137,7 +137,7 @@
 "nzl","New Zealand","","","","","",
 "omn","Oman","","","","","",
 "pak","Pakistan","[![](https://api.travis-ci.org/OHI-Science/pak.svg?branch=draft)](https://travis-ci.org/OHI-Science/pak/branches)","2014-11-24","24261c9","automatically calculate_scores from commit fcdbb6bd5d9fe866e2a1232d2f70014307c99dd5 [ci_skip]","http://ohi-science.org/pak/images/regions_30x20.png",2
-"pan","Panama","","","","","",
+"pan","Panama","[![](https://api.travis-ci.org/OHI-Science/pan.svg?branch=draft)](https://travis-ci.org/OHI-Science/pan/branches)","2014-11-24","c458ea2","automatically calculate_scores from commit 1f92d245d3ff5e206f54a1b089011bcd33aa2eef [ci_skip]","http://ohi-science.org/pan/images/regions_30x20.png",11
 "pcn","Pitcairn","","","","","",
 "per","Peru","","","","","",
 "phl","Philippines","","","","","",
