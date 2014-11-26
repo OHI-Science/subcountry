@@ -174,7 +174,7 @@
 "tca","Turks and Caicos Islands","[![](https://api.travis-ci.org/OHI-Science/tca.svg?branch=draft)](https://travis-ci.org/OHI-Science/tca/branches)","2014-11-26","4b6e677","automatically calculate_scores from commit e1280db88d76a7a2e56a55ac6d724137d1ee1d3f [ci_skip]","http://ohi-science.org/tca/images/regions_30x20.png",6
 "tgo","Togo","[![](https://api.travis-ci.org/OHI-Science/tgo.svg?branch=draft)](https://travis-ci.org/OHI-Science/tgo/branches)","2014-11-26","e1d2057","automatically calculate_scores from commit 02f1f2d65a12f0a335f838feea2882c580f15f02 [ci_skip]","http://ohi-science.org/tgo/images/regions_30x20.png",1
 "tha","Thailand","[![](https://api.travis-ci.org/OHI-Science/tha.svg?branch=draft)](https://travis-ci.org/OHI-Science/tha/branches)","2014-11-26","ea62142","automatically calculate_scores from commit 9ebb4b9b85894d58e64f0450b9de23e85b291f54 [ci_skip]","http://ohi-science.org/tha/images/regions_30x20.png",24
-"tkl","Tokelau","","","","","",
+"tkl","Tokelau","[![](https://api.travis-ci.org/OHI-Science/tkl.svg?branch=draft)](https://travis-ci.org/OHI-Science/tkl/branches)","2014-11-26","927a1dc","automatically calculate_scores from commit 6ee87f9bc44fa093f0595c4b0829d001a9a3573a [ci_skip]","http://ohi-science.org/tkl/images/regions_30x20.png",3
 "tls","East Timor","[![](https://api.travis-ci.org/OHI-Science/tls.svg?branch=draft)](https://travis-ci.org/OHI-Science/tls/branches)","2014-11-26","5885958","automatically calculate_scores from commit 1d385539d0a294d2c723d053642c27e94dcc4b2d [ci_skip]","http://ohi-science.org/tls/images/regions_30x20.png",10
 "ton","Tonga","","","","","",
 "tto","Trinidad and Tobago","","","","","",
