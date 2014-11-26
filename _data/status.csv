@@ -90,7 +90,7 @@
 "irq","Iraq","","","","","",
 "isl","Iceland","[![](https://api.travis-ci.org/OHI-Science/isl.svg?branch=draft)](https://travis-ci.org/OHI-Science/isl/branches)","2014-11-26","50fdbf4","automatically calculate_scores from commit 8c17a2746a7e6f2ccfde9d106865abaae6347e9c [ci_skip]","http://ohi-science.org/isl/images/regions_30x20.png",8
 "isr","Israel","","","","","",
-"ita","Italy","","","","","",
+"ita","Italy","[![](https://api.travis-ci.org/OHI-Science/ita.svg?branch=draft)](https://travis-ci.org/OHI-Science/ita/branches)","2014-11-26","8c401a2","automatically calculate_scores from commit 79ed9ef484a15077ccd9f7f2a5cc7ac09a1c958b [ci_skip]","http://ohi-science.org/ita/images/regions_30x20.png",15
 "jam","Jamaica","[![](https://api.travis-ci.org/OHI-Science/jam.svg?branch=draft)](https://travis-ci.org/OHI-Science/jam/branches)","2014-11-25","9f31af5","automatically calculate_scores from commit 75cd0c0cf60e996f8c550620295704e7c1cee2ed [ci_skip]","http://ohi-science.org/jam/images/regions_30x20.png",14
 "jey","Jersey","","","","","",
 "jor","Jordan","[![](https://api.travis-ci.org/OHI-Science/jor.svg?branch=draft)](https://travis-ci.org/OHI-Science/jor/branches)","2014-11-24","7a18d23","automatically calculate_scores from commit d64edbf240fd1ea99ef1951bebb2c2449b433006 [ci_skip]","http://ohi-science.org/jor/images/regions_30x20.png",1
