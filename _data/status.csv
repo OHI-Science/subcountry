@@ -61,7 +61,7 @@
 "flk","Falkland Islands","[![](https://api.travis-ci.org/OHI-Science/flk.svg?branch=draft)](https://travis-ci.org/OHI-Science/flk/branches)","2014-11-24","12b11e5","automatically calculate_scores from commit 559a152502887119f3cffdd7d0401be8fe89baf2 [ci_skip]","http://ohi-science.org/flk/images/regions_30x20.png",1
 "fra","France","","","","","",
 "fro","Faeroe Islands","","","","","",
-"fsm","Micronesia","","","","","",
+"fsm","Micronesia","[![](https://api.travis-ci.org/OHI-Science/fsm.svg?branch=draft)](https://travis-ci.org/OHI-Science/fsm/branches)","2014-11-25","5d16cad","automatically calculate_scores from commit 7ec00588534e4bc8569592cc138ff66544e281e4 [ci_skip]","http://ohi-science.org/fsm/images/regions_30x20.png",4
 "gab","Gabon","[![](https://api.travis-ci.org/OHI-Science/gab.svg?branch=draft)](https://travis-ci.org/OHI-Science/gab/branches)","2014-11-24","9de14d0","automatically calculate_scores from commit 4f2dc2a06c4a850be44f3a89893068f7e1ad6316 [ci_skip]","http://ohi-science.org/gab/images/regions_30x20.png",3
 "gbr","United Kingdom","","","","","",
 "geo","Georgia","","","","","",
