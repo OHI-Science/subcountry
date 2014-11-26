@@ -130,7 +130,7 @@
 "nfk","Norfolk Island","","","","","",
 "nga","Nigeria","","","","","",
 "nic","Nicaragua","[![](https://api.travis-ci.org/OHI-Science/nic.svg?branch=draft)](https://travis-ci.org/OHI-Science/nic/branches)","2014-11-25","239636c","automatically calculate_scores from commit 5306e7044f1ef7489204c0caee21256321b69008 [ci_skip]","http://ohi-science.org/nic/images/regions_30x20.png",8
-"niu","Niue","","","","","",
+"niu","Niue","[![](https://api.travis-ci.org/OHI-Science/niu.svg?branch=draft)](https://travis-ci.org/OHI-Science/niu/branches)","2014-11-25","67bd2eb","automatically calculate_scores from commit e54094f4bbbd2ab6b793d4b9d29ce8cb96aadfee [ci_skip]","http://ohi-science.org/niu/images/regions_30x20.png",1
 "nld","Netherlands","","","","","",
 "nor","Norway","","","","","",
 "nru","Nauru","","","","","",
