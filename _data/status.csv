@@ -132,7 +132,7 @@
 "nic","Nicaragua","[![](https://api.travis-ci.org/OHI-Science/nic.svg?branch=draft)](https://travis-ci.org/OHI-Science/nic/branches)","2014-11-25","239636c","automatically calculate_scores from commit 5306e7044f1ef7489204c0caee21256321b69008 [ci_skip]","http://ohi-science.org/nic/images/regions_30x20.png",8
 "niu","Niue","[![](https://api.travis-ci.org/OHI-Science/niu.svg?branch=draft)](https://travis-ci.org/OHI-Science/niu/branches)","2014-11-25","67bd2eb","automatically calculate_scores from commit e54094f4bbbd2ab6b793d4b9d29ce8cb96aadfee [ci_skip]","http://ohi-science.org/niu/images/regions_30x20.png",1
 "nld","Netherlands","","","","","",
-"nor","Norway","","","","","",
+"nor","Norway","[![](https://api.travis-ci.org/OHI-Science/nor.svg?branch=draft)](https://travis-ci.org/OHI-Science/nor/branches)","2014-11-25","e32d874","automatically calculate_scores from commit 7d4dddca9132c01e455f8e365d5100dd614a318f [ci_skip]","http://ohi-science.org/nor/images/regions_30x20.png",17
 "nru","Nauru","","","","","",
 "nzl","New Zealand","","","","","",
 "omn","Oman","","","","","",
