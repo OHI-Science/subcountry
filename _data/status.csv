@@ -117,7 +117,7 @@
 "mhl","Marshall Islands","[![](https://api.travis-ci.org/OHI-Science/mhl.svg?branch=draft)](https://travis-ci.org/OHI-Science/mhl/branches)","2014-11-25","2becb59","automatically calculate_scores from commit 1794501f245fb9ad9c332d21486ac5df956d423a [ci_skip]","http://ohi-science.org/mhl/images/regions_30x20.png",1
 "mlt","Malta","","","","","",
 "mmr","Myanmar","[![](https://api.travis-ci.org/OHI-Science/mmr.svg?branch=draft)](https://travis-ci.org/OHI-Science/mmr/branches)","2014-11-26","95a69b1","automatically calculate_scores from commit a1e037af0eed79ea8543d8564ccaac7312e8411f [ci_skip]","http://ohi-science.org/mmr/images/regions_30x20.png",7
-"mne","Montenegro","","","","","",
+"mne","Montenegro","[![](https://api.travis-ci.org/OHI-Science/mne.svg?branch=draft)](https://travis-ci.org/OHI-Science/mne/branches)","2014-11-26","6dd2eb0","automatically calculate_scores from commit 086edd3f7ae0706ab64a43526977a0959007cf81 [ci_skip]","http://ohi-science.org/mne/images/regions_30x20.png",6
 "mnp","Northern Mariana Islands and Guam","","","","","",
 "moz","Mozambique","[![](https://api.travis-ci.org/OHI-Science/moz.svg?branch=draft)](https://travis-ci.org/OHI-Science/moz/branches)","2014-11-24","bda90eb","automatically calculate_scores from commit 9c7e58d7a9029b02259a97273aca45a322e505c4 [ci_skip]","http://ohi-science.org/moz/images/regions_30x20.png",7
 "mrt","Mauritania","[![](https://api.travis-ci.org/OHI-Science/mrt.svg?branch=draft)](https://travis-ci.org/OHI-Science/mrt/branches)","2014-11-25","cd1a6c3","automatically calculate_scores from commit fe28484ba3a14c7f4179296682f98d9ba44fc42b [ci_skip]","http://ohi-science.org/mrt/images/regions_30x20.png",4
