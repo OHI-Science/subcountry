@@ -154,7 +154,7 @@
 "sau","Saudi Arabia","","","","","",
 "sdn","Sudan","","","","","",
 "sen","Senegal","","","","","",
-"sgp","Singapore","","","","","",
+"sgp","Singapore","[![](https://api.travis-ci.org/OHI-Science/sgp.svg?branch=draft)](https://travis-ci.org/OHI-Science/sgp/branches)","2014-11-25","408ce30","automatically calculate_scores from commit 19e0063f246d3fc2180fd8f0bfee9958690f6d43 [ci_skip]","http://ohi-science.org/sgp/images/regions_30x20.png",1
 "sgs","South Georgia and the South Sandwich Islands","","","","","",
 "shn","Saint Helena","","","","","",
 "sjm","Jan Mayen","","","","","",
