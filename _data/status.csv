@@ -63,7 +63,7 @@
 "fro","Faeroe Islands","","","","","",
 "fsm","Micronesia","[![](https://api.travis-ci.org/OHI-Science/fsm.svg?branch=draft)](https://travis-ci.org/OHI-Science/fsm/branches)","2014-11-25","5d16cad","automatically calculate_scores from commit 7ec00588534e4bc8569592cc138ff66544e281e4 [ci_skip]","http://ohi-science.org/fsm/images/regions_30x20.png",4
 "gab","Gabon","[![](https://api.travis-ci.org/OHI-Science/gab.svg?branch=draft)](https://travis-ci.org/OHI-Science/gab/branches)","2014-11-24","9de14d0","automatically calculate_scores from commit 4f2dc2a06c4a850be44f3a89893068f7e1ad6316 [ci_skip]","http://ohi-science.org/gab/images/regions_30x20.png",3
-"gbr","United Kingdom","","","","","",
+"gbr","United Kingdom","[![](https://api.travis-ci.org/OHI-Science/gbr.svg?branch=draft)](https://travis-ci.org/OHI-Science/gbr/branches)","2014-11-25","33065cb","automatically calculate_scores from commit 3db666c554e55040e58adedf204608df3750b619 [ci_skip]","http://ohi-science.org/gbr/images/regions_30x20.png",4
 "geo","Georgia","[![](https://api.travis-ci.org/OHI-Science/geo.svg?branch=draft)](https://travis-ci.org/OHI-Science/geo/branches)","2014-11-25","302cc49","automatically calculate_scores from commit 07f4aea19f3a0ff568944b12f03cd0e9435d7762 [ci_skip]","http://ohi-science.org/geo/images/regions_30x20.png",4
 "ggy","Guernsey","","","","","",
 "gha","Ghana","[![](https://api.travis-ci.org/OHI-Science/gha.svg?branch=draft)](https://travis-ci.org/OHI-Science/gha/branches)","2014-11-24","a2bc767","automatically calculate_scores from commit 11fff2f31a3663b1d56f5c9a1771656f2de610b8 [ci_skip]","http://ohi-science.org/gha/images/regions_30x20.png",4
