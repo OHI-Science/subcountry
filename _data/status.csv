@@ -9,7 +9,7 @@
 "asc","Ascension","","","","","",
 "asm","American Samoa","[![](https://api.travis-ci.org/OHI-Science/asm.svg?branch=draft)](https://travis-ci.org/OHI-Science/asm/branches)","2014-11-24","877bcb4","Update README.md","http://ohi-science.org/asm/images/regions_30x20.png",4
 "ata","Antarctica","","","","","",
-"atg","Antigua and Barbuda","","","","","",
+"atg","Antigua and Barbuda","[![](https://api.travis-ci.org/OHI-Science/atg.svg?branch=draft)](https://travis-ci.org/OHI-Science/atg/branches)","2014-11-26","59acd7b","automatically calculate_scores from commit 872e8cf74b5de88cb2e0558941674331026fa665 [ci_skip]","http://ohi-science.org/atg/images/regions_30x20.png",8
 "aus","Australia","[![](https://api.travis-ci.org/OHI-Science/aus.svg?branch=draft)](https://travis-ci.org/OHI-Science/aus/branches)","2014-11-26","b5e3e8b","enabled travis.yml with encrypted github token","http://ohi-science.org/aus/images/regions_30x20.png",10
 "bel","Belgium","[![](https://api.travis-ci.org/OHI-Science/bel.svg?branch=draft)](https://travis-ci.org/OHI-Science/bel/branches)","2014-11-24","8af823b","automatically calculate_scores from commit 8320e37518440e7d4c3df82e4eeba4914eb62749 [ci_skip]","http://ohi-science.org/bel/images/regions_30x20.png",1
 "ben","Benin","[![](https://api.travis-ci.org/OHI-Science/ben.svg?branch=draft)](https://travis-ci.org/OHI-Science/ben/branches)","2014-11-24","e767391","automatically calculate_scores from commit d40e10a81699eb4d85ecf401732de82a700faa74 [ci_skip]","http://ohi-science.org/ben/images/regions_30x20.png",4
