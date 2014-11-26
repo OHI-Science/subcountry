@@ -116,7 +116,7 @@
 "mex","Mexico","[![](https://api.travis-ci.org/OHI-Science/mex.svg?branch=draft)](https://travis-ci.org/OHI-Science/mex/branches)","2014-11-24","6b97e36","automatically calculate_scores from commit 3ff908726259575f2dc1635c0a5f7e4fa5f4f327 [ci_skip]","http://ohi-science.org/mex/images/regions_30x20.png",17
 "mhl","Marshall Islands","[![](https://api.travis-ci.org/OHI-Science/mhl.svg?branch=draft)](https://travis-ci.org/OHI-Science/mhl/branches)","2014-11-25","2becb59","automatically calculate_scores from commit 1794501f245fb9ad9c332d21486ac5df956d423a [ci_skip]","http://ohi-science.org/mhl/images/regions_30x20.png",1
 "mlt","Malta","","","","","",
-"mmr","Myanmar","","","","","",
+"mmr","Myanmar","[![](https://api.travis-ci.org/OHI-Science/mmr.svg?branch=draft)](https://travis-ci.org/OHI-Science/mmr/branches)","2014-11-26","95a69b1","automatically calculate_scores from commit a1e037af0eed79ea8543d8564ccaac7312e8411f [ci_skip]","http://ohi-science.org/mmr/images/regions_30x20.png",7
 "mne","Montenegro","","","","","",
 "mnp","Northern Mariana Islands and Guam","","","","","",
 "moz","Mozambique","[![](https://api.travis-ci.org/OHI-Science/moz.svg?branch=draft)](https://travis-ci.org/OHI-Science/moz/branches)","2014-11-24","bda90eb","automatically calculate_scores from commit 9c7e58d7a9029b02259a97273aca45a322e505c4 [ci_skip]","http://ohi-science.org/moz/images/regions_30x20.png",7
