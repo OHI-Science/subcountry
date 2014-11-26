@@ -171,7 +171,7 @@
 "syc","Seychelles","[![](https://api.travis-ci.org/OHI-Science/syc.svg?branch=draft)](https://travis-ci.org/OHI-Science/syc/branches)","2014-11-25","7735365","automatically calculate_scores from commit 96d04756925d8922998008f4f47f452c1e9603d0 [ci_skip]","http://ohi-science.org/syc/images/regions_30x20.png",1
 "syr","Syria","","","","","",
 "taa","Tristan da Cunha","","","","","",
-"tca","Turks and Caicos Islands","","","","","",
+"tca","Turks and Caicos Islands","[![](https://api.travis-ci.org/OHI-Science/tca.svg?branch=draft)](https://travis-ci.org/OHI-Science/tca/branches)","2014-11-26","4b6e677","automatically calculate_scores from commit e1280db88d76a7a2e56a55ac6d724137d1ee1d3f [ci_skip]","http://ohi-science.org/tca/images/regions_30x20.png",6
 "tgo","Togo","","","","","",
 "tha","Thailand","","","","","",
 "tkl","Tokelau","","","","","",
