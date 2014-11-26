@@ -153,7 +153,7 @@
 "rus","Russia","","","","","",
 "sau","Saudi Arabia","[![](https://api.travis-ci.org/OHI-Science/sau.svg?branch=draft)](https://travis-ci.org/OHI-Science/sau/branches)","2014-11-26","e86b02b","automatically calculate_scores from commit 2fc85a0c4a909d0107fe3168baa3007216638b8b [ci_skip]","http://ohi-science.org/sau/images/regions_30x20.png",6
 "sdn","Sudan","[![](https://api.travis-ci.org/OHI-Science/sdn.svg?branch=draft)](https://travis-ci.org/OHI-Science/sdn/branches)","2014-11-26","3975a87","automatically calculate_scores from commit 9950715c698cc6b98daf188bf4d14fd3b0918cbb [ci_skip]","http://ohi-science.org/sdn/images/regions_30x20.png",1
-"sen","Senegal","","","","","",
+"sen","Senegal","[![](https://api.travis-ci.org/OHI-Science/sen.svg?branch=draft)](https://travis-ci.org/OHI-Science/sen/branches)","2014-11-26","0568345","automatically calculate_scores from commit 490abee7b9a172f8a4219d971482c04c324462eb [ci_skip]","http://ohi-science.org/sen/images/regions_30x20.png",6
 "sgp","Singapore","[![](https://api.travis-ci.org/OHI-Science/sgp.svg?branch=draft)](https://travis-ci.org/OHI-Science/sgp/branches)","2014-11-25","408ce30","automatically calculate_scores from commit 19e0063f246d3fc2180fd8f0bfee9958690f6d43 [ci_skip]","http://ohi-science.org/sgp/images/regions_30x20.png",1
 "sgs","South Georgia and the South Sandwich Islands","","","","","",
 "shn","Saint Helena","","","","","",
