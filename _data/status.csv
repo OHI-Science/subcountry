@@ -134,7 +134,7 @@
 "nld","Netherlands","","","","","",
 "nor","Norway","[![](https://api.travis-ci.org/OHI-Science/nor.svg?branch=draft)](https://travis-ci.org/OHI-Science/nor/branches)","2014-11-25","e32d874","automatically calculate_scores from commit 7d4dddca9132c01e455f8e365d5100dd614a318f [ci_skip]","http://ohi-science.org/nor/images/regions_30x20.png",17
 "nru","Nauru","[![](https://api.travis-ci.org/OHI-Science/nru.svg?branch=draft)](https://travis-ci.org/OHI-Science/nru/branches)","2014-11-26","b51eee4","automatically calculate_scores from commit 6303acebfdb488817def8c52fb1861a31ee07750 [ci_skip]","http://ohi-science.org/nru/images/regions_30x20.png",13
-"nzl","New Zealand","","","","","",
+"nzl","New Zealand","[![](https://api.travis-ci.org/OHI-Science/nzl.svg?branch=draft)](https://travis-ci.org/OHI-Science/nzl/branches)","2014-11-26","772d59f","automatically calculate_scores from commit 4cb5d77240fae8fc35c65e3c6ac0b01aa25b33ca [ci_skip]","http://ohi-science.org/nzl/images/regions_30x20.png",16
 "omn","Oman","","","","","",
 "pak","Pakistan","[![](https://api.travis-ci.org/OHI-Science/pak.svg?branch=draft)](https://travis-ci.org/OHI-Science/pak/branches)","2014-11-25","6edc885","automatically calculate_scores from commit 47a0293fc7272801f81d2807f7cb3b64fa29b834 [ci_skip]","http://ohi-science.org/pak/images/regions_30x20.png",2
 "pan","Panama","[![](https://api.travis-ci.org/OHI-Science/pan.svg?branch=draft)](https://travis-ci.org/OHI-Science/pan/branches)","2014-11-25","a9e260f","automatically calculate_scores from commit 41be7e944922fbfb9c17b0af32ecbf7abd52ee68 [ci_skip]","http://ohi-science.org/pan/images/regions_30x20.png",11
