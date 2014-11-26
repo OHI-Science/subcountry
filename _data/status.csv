@@ -84,7 +84,7 @@
 "hti","Haiti","[![](https://api.travis-ci.org/OHI-Science/hti.svg?branch=draft)](https://travis-ci.org/OHI-Science/hti/branches)","2014-11-25","d208cc9","automatically calculate_scores from commit d55cc58fda0108e0aae921602e950c0e8c999e02 [ci_skip]","http://ohi-science.org/hti/images/regions_30x20.png",9
 "idn","Indonesia","[![](https://api.travis-ci.org/OHI-Science/idn.svg?branch=draft)](https://travis-ci.org/OHI-Science/idn/branches)","2014-11-25","7c6ffe5","automatically calculate_scores from commit ee1f649beb18b54a79504e9047ceccf02be5c58e [ci_skip]","http://ohi-science.org/idn/images/regions_30x20.png",33
 "ind","India","","","","","",
-"iot","British Indian Ocean Territory","","","","","",
+"iot","British Indian Ocean Territory","[![](https://api.travis-ci.org/OHI-Science/iot.svg?branch=draft)](https://travis-ci.org/OHI-Science/iot/branches)","2014-11-26","fa13439","automatically calculate_scores from commit 614c5ff4becf4b3f6da792615af2eef06e845ef1 [ci_skip]","http://ohi-science.org/iot/images/regions_30x20.png",1
 "irl","Ireland","","","","","",
 "irn","Iran","[![](https://api.travis-ci.org/OHI-Science/irn.svg?branch=draft)](https://travis-ci.org/OHI-Science/irn/branches)","2014-11-26","30d2111","automatically calculate_scores from commit fdf9e49ded3be8c84da94cb803b9dfa74e5a92b7 [ci_skip]","http://ohi-science.org/irn/images/regions_30x20.png",4
 "irq","Iraq","","","","","",
