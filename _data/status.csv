@@ -178,7 +178,7 @@
 "tls","East Timor","[![](https://api.travis-ci.org/OHI-Science/tls.svg?branch=draft)](https://travis-ci.org/OHI-Science/tls/branches)","2014-11-26","5885958","automatically calculate_scores from commit 1d385539d0a294d2c723d053642c27e94dcc4b2d [ci_skip]","http://ohi-science.org/tls/images/regions_30x20.png",10
 "ton","Tonga","","","","","",
 "tto","Trinidad and Tobago","","","","","",
-"tun","Tunisia","","","","","",
+"tun","Tunisia","[![](https://api.travis-ci.org/OHI-Science/tun.svg?branch=draft)](https://travis-ci.org/OHI-Science/tun/branches)","2014-11-26","0972110","automatically calculate_scores from commit 3401a68232bc12ffd7cd26436b6576765761553a [ci_skip]","http://ohi-science.org/tun/images/regions_30x20.png",13
 "tur","Turkey","","","","","",
 "tuv","Tuvalu","","","","","",
 "twn","Taiwan","","","","","",
