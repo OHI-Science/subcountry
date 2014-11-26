@@ -190,7 +190,7 @@
 "ven","Venezuela","[![](https://api.travis-ci.org/OHI-Science/ven.svg?branch=draft)](https://travis-ci.org/OHI-Science/ven/branches)","2014-11-26","aab25cd","automatically calculate_scores from commit 9c9259523f04a1943fd23d9926b1324325989f53 [ci_skip]","http://ohi-science.org/ven/images/regions_30x20.png",14
 "vgb","British Virgin Islands","[![](https://api.travis-ci.org/OHI-Science/vgb.svg?branch=draft)](https://travis-ci.org/OHI-Science/vgb/branches)","2014-11-25","81d9377","automatically calculate_scores from commit c95da280136e6e974270191e2f3804ad1476dd25 [ci_skip]","http://ohi-science.org/vgb/images/regions_30x20.png",1
 "vnm","Vietnam","","","","","",
-"vut","Vanuatu","","","","","",
+"vut","Vanuatu","[![](https://api.travis-ci.org/OHI-Science/vut.svg?branch=draft)](https://travis-ci.org/OHI-Science/vut/branches)","2014-11-26","90b8e59","automatically calculate_scores from commit 04bf93303d6a8c833393bb42e96d1e59fbd1973a [ci_skip]","http://ohi-science.org/vut/images/regions_30x20.png",6
 "wlf","Wallis and Futuna","","","","","",
 "wsm","Samoa","","","","","",
 "xan","Andaman and Nicobar","","","","","",
