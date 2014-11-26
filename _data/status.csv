@@ -105,7 +105,7 @@
 "lbr","Liberia","[![](https://api.travis-ci.org/OHI-Science/lbr.svg?branch=draft)](https://travis-ci.org/OHI-Science/lbr/branches)","2014-11-24","7264a49","automatically calculate_scores from commit ee419bee5d3a4acba2d4cd2a99af48e09a07fe4a [ci_skip]","http://ohi-science.org/lbr/images/regions_30x20.png",9
 "lby","Libya","[![](https://api.travis-ci.org/OHI-Science/lby.svg?branch=draft)](https://travis-ci.org/OHI-Science/lby/branches)","2014-11-24","cfdc6cc","automatically calculate_scores from commit d568ccf899f72058e027d346f31107568af2e61a [ci_skip]","http://ohi-science.org/lby/images/regions_30x20.png",16
 "lca","Saint Lucia","","","","","",
-"lka","Sri Lanka","","","","","",
+"lka","Sri Lanka","[![](https://api.travis-ci.org/OHI-Science/lka.svg?branch=draft)](https://travis-ci.org/OHI-Science/lka/branches)","2014-11-26","f1c5996","automatically calculate_scores from commit 49f769ce0759c938f7dd5503ca7b05431879354e [ci_skip]","http://ohi-science.org/lka/images/regions_30x20.png",14
 "ltu","Lithuania","","","","","",
 "lva","Latvia","","","","","",
 "maf","Northern Saint-Martin","","","","","",
