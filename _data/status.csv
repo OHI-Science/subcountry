@@ -97,7 +97,7 @@
 "jpn","Japan","","","","","",
 "ken","Kenya","","","","","",
 "khm","Cambodia","[![](https://api.travis-ci.org/OHI-Science/khm.svg?branch=draft)](https://travis-ci.org/OHI-Science/khm/branches)","2014-11-24","29cd815","automatically calculate_scores from commit 9e006a813803e6fc038b96e613cdf0c92ad30049 [ci_skip]","http://ohi-science.org/khm/images/regions_30x20.png",4
-"kir","Kiribati","","","","","",
+"kir","Kiribati","[![](https://api.travis-ci.org/OHI-Science/kir.svg?branch=draft)](https://travis-ci.org/OHI-Science/kir/branches)","2014-11-25","19c285c","automatically calculate_scores from commit aa69b76df5b7d7134bbc87f5c3288a195482b9e9 [ci_skip]","http://ohi-science.org/kir/images/regions_30x20.png",1
 "kna","Saint Kitts and Nevis","","","","","",
 "kor","South Korea","","","","","",
 "kwt","Kuwait","[![](https://api.travis-ci.org/OHI-Science/kwt.svg?branch=draft)](https://travis-ci.org/OHI-Science/kwt/branches)","2014-11-24","1be8e82","automatically calculate_scores from commit 7f7194a1700f330d0dab0abf72824bdb44d36d85 [ci_skip]","http://ohi-science.org/kwt/images/regions_30x20.png",4
