@@ -163,7 +163,7 @@
 "slv","El Salvador","[![](https://api.travis-ci.org/OHI-Science/slv.svg?branch=draft)](https://travis-ci.org/OHI-Science/slv/branches)","2014-11-25","4a64b68","automatically calculate_scores from commit c9308273ce613252e14f1a94a83b25a05224839e [ci_skip]","http://ohi-science.org/slv/images/regions_30x20.png",8
 "som","Somalia","","","","","",
 "spm","Saint Pierre and Miquelon","","","","","",
-"stp","Sao Tome and Principe","","","","","",
+"stp","Sao Tome and Principe","[![](https://api.travis-ci.org/OHI-Science/stp.svg?branch=draft)](https://travis-ci.org/OHI-Science/stp/branches)","2014-11-26","5a2687e","automatically calculate_scores from commit 049f5f0038d3b6d9d5686508d511a02b1310dee8 [ci_skip]","http://ohi-science.org/stp/images/regions_30x20.png",2
 "sur","Suriname","","","","","",
 "svn","Slovenia","","","","","",
 "swe","Sweden","[![](https://api.travis-ci.org/OHI-Science/swe.svg?branch=draft)](https://travis-ci.org/OHI-Science/swe/branches)","2014-11-25","5d68dbe","automatically calculate_scores from commit a0779618b5e0147e87f0ea9a596b478539832b6d [ci_skip]","http://ohi-science.org/swe/images/regions_30x20.png",14
