@@ -95,7 +95,7 @@
 "jey","Jersey","","","","","",
 "jor","Jordan","[![](https://api.travis-ci.org/OHI-Science/jor.svg?branch=draft)](https://travis-ci.org/OHI-Science/jor/branches)","2014-11-24","7a18d23","automatically calculate_scores from commit d64edbf240fd1ea99ef1951bebb2c2449b433006 [ci_skip]","http://ohi-science.org/jor/images/regions_30x20.png",1
 "jpn","Japan","","","","","",
-"ken","Kenya","","","","","",
+"ken","Kenya","[![](https://api.travis-ci.org/OHI-Science/ken.svg?branch=draft)](https://travis-ci.org/OHI-Science/ken/branches)","2014-11-26","cec6e46","automatically calculate_scores from commit e1f71fa00f35b4eaa6df1d1fc3be42e8c5297963 [ci_skip]","http://ohi-science.org/ken/images/regions_30x20.png",1
 "khm","Cambodia","[![](https://api.travis-ci.org/OHI-Science/khm.svg?branch=draft)](https://travis-ci.org/OHI-Science/khm/branches)","2014-11-24","29cd815","automatically calculate_scores from commit 9e006a813803e6fc038b96e613cdf0c92ad30049 [ci_skip]","http://ohi-science.org/khm/images/regions_30x20.png",4
 "kir","Kiribati","[![](https://api.travis-ci.org/OHI-Science/kir.svg?branch=draft)](https://travis-ci.org/OHI-Science/kir/branches)","2014-11-25","19c285c","automatically calculate_scores from commit aa69b76df5b7d7134bbc87f5c3288a195482b9e9 [ci_skip]","http://ohi-science.org/kir/images/regions_30x20.png",1
 "kna","Saint Kitts and Nevis","","","","","",
