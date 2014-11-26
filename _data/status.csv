@@ -187,7 +187,7 @@
 "ury","Uruguay","[![](https://api.travis-ci.org/OHI-Science/ury.svg?branch=draft)](https://travis-ci.org/OHI-Science/ury/branches)","2014-11-26","f2b26c1","automatically calculate_scores from commit 376ed1c2cf605de1db8cb5cf7347035ea72bdc8b [ci_skip]","http://ohi-science.org/ury/images/regions_30x20.png",8
 "usa","United States","","","","","",
 "vct","Saint Vincent and the Grenadines","","","","","",
-"ven","Venezuela","","","","","",
+"ven","Venezuela","[![](https://api.travis-ci.org/OHI-Science/ven.svg?branch=draft)](https://travis-ci.org/OHI-Science/ven/branches)","2014-11-26","aab25cd","automatically calculate_scores from commit 9c9259523f04a1943fd23d9926b1324325989f53 [ci_skip]","http://ohi-science.org/ven/images/regions_30x20.png",14
 "vgb","British Virgin Islands","[![](https://api.travis-ci.org/OHI-Science/vgb.svg?branch=draft)](https://travis-ci.org/OHI-Science/vgb/branches)","2014-11-25","81d9377","automatically calculate_scores from commit c95da280136e6e974270191e2f3804ad1476dd25 [ci_skip]","http://ohi-science.org/vgb/images/regions_30x20.png",1
 "vnm","Vietnam","","","","","",
 "vut","Vanuatu","","","","","",
