@@ -80,7 +80,7 @@
 "guy","Guyana","","","","","",
 "hmd","Heard and McDonald Islands","","","","","",
 "hnd","Honduras","[![](https://api.travis-ci.org/OHI-Science/hnd.svg?branch=draft)](https://travis-ci.org/OHI-Science/hnd/branches)","2014-11-24","d74db94","automatically calculate_scores from commit 5aabc51f3d0944a44d2f7bbaf04b06a2a5e2165b [ci_skip]","http://ohi-science.org/hnd/images/regions_30x20.png",7
-"hrv","Croatia","","","","","",
+"hrv","Croatia","[![](https://api.travis-ci.org/OHI-Science/hrv.svg?branch=draft)](https://travis-ci.org/OHI-Science/hrv/branches)","2014-11-25","f0ab912","automatically calculate_scores from commit 04232efca445c9b56c1c3ffaa8aa384e489fcff8 [ci_skip]","http://ohi-science.org/hrv/images/regions_30x20.png",7
 "hti","Haiti","","","","","",
 "idn","Indonesia","","","","","",
 "ind","India","","","","","",
