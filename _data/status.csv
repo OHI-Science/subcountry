@@ -172,7 +172,7 @@
 "syr","Syria","","","","","",
 "taa","Tristan da Cunha","","","","","",
 "tca","Turks and Caicos Islands","[![](https://api.travis-ci.org/OHI-Science/tca.svg?branch=draft)](https://travis-ci.org/OHI-Science/tca/branches)","2014-11-26","4b6e677","automatically calculate_scores from commit e1280db88d76a7a2e56a55ac6d724137d1ee1d3f [ci_skip]","http://ohi-science.org/tca/images/regions_30x20.png",6
-"tgo","Togo","","","","","",
+"tgo","Togo","[![](https://api.travis-ci.org/OHI-Science/tgo.svg?branch=draft)](https://travis-ci.org/OHI-Science/tgo/branches)","2014-11-26","e1d2057","automatically calculate_scores from commit 02f1f2d65a12f0a335f838feea2882c580f15f02 [ci_skip]","http://ohi-science.org/tgo/images/regions_30x20.png",1
 "tha","Thailand","","","","","",
 "tkl","Tokelau","","","","","",
 "tls","East Timor","","","","","",
