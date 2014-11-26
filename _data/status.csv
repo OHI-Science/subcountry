@@ -192,7 +192,7 @@
 "vnm","Vietnam","","","","","",
 "vut","Vanuatu","[![](https://api.travis-ci.org/OHI-Science/vut.svg?branch=draft)](https://travis-ci.org/OHI-Science/vut/branches)","2014-11-26","90b8e59","automatically calculate_scores from commit 04bf93303d6a8c833393bb42e96d1e59fbd1973a [ci_skip]","http://ohi-science.org/vut/images/regions_30x20.png",6
 "wlf","Wallis and Futuna","[![](https://api.travis-ci.org/OHI-Science/wlf.svg?branch=draft)](https://travis-ci.org/OHI-Science/wlf/branches)","2014-11-26","d16456b","automatically calculate_scores from commit 200aa69323fc6f751bc90daff32f0e2c45867e42 [ci_skip]","http://ohi-science.org/wlf/images/regions_30x20.png",3
-"wsm","Samoa","","","","","",
+"wsm","Samoa","[![](https://api.travis-ci.org/OHI-Science/wsm.svg?branch=draft)](https://travis-ci.org/OHI-Science/wsm/branches)","2014-11-26","ebf0905","automatically calculate_scores from commit 7e471a74fda700f8a3309dc87d725bea0d20bce9 [ci_skip]","http://ohi-science.org/wsm/images/regions_30x20.png",11
 "xan","Andaman and Nicobar","","","","","",
 "xas","Amsterdam Island and Saint Paul Island","","","","","",
 "xaz","Azores","","","","","",
