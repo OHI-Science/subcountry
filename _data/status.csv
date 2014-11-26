@@ -57,7 +57,7 @@
 "esp","Spain","[![](https://api.travis-ci.org/OHI-Science/esp.svg?branch=draft)](https://travis-ci.org/OHI-Science/esp/branches)","2014-11-25","b5acd73","automatically calculate_scores from commit 6bd6714e6ac6fe75032c624ad3c9c89d3c245261 [ci_skip]","http://ohi-science.org/esp/images/regions_30x20.png",10
 "est","Estonia","","","","","",
 "fin","Finland","","","","","",
-"fji","Fiji","","","","","",
+"fji","Fiji","[![](https://api.travis-ci.org/OHI-Science/fji.svg?branch=draft)](https://travis-ci.org/OHI-Science/fji/branches)","2014-11-26","d3a5afc","automatically calculate_scores from commit fb263a1309b70ae4c3a5a4b998c93feb4cf268e7 [ci_skip]","http://ohi-science.org/fji/images/regions_30x20.png",5
 "flk","Falkland Islands","[![](https://api.travis-ci.org/OHI-Science/flk.svg?branch=draft)](https://travis-ci.org/OHI-Science/flk/branches)","2014-11-24","12b11e5","automatically calculate_scores from commit 559a152502887119f3cffdd7d0401be8fe89baf2 [ci_skip]","http://ohi-science.org/flk/images/regions_30x20.png",1
 "fra","France","","","","","",
 "fro","Faeroe Islands","","","","","",
