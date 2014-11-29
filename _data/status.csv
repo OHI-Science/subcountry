@@ -106,7 +106,7 @@
 "lby","Libya","[![](https://api.travis-ci.org/OHI-Science/lby.svg?branch=draft)](https://travis-ci.org/OHI-Science/lby/branches)","2014-11-24","cfdc6cc","automatically calculate_scores from commit d568ccf899f72058e027d346f31107568af2e61a [ci_skip]","http://ohi-science.org/lby/images/regions_30x20.png",16
 "lca","Saint Lucia","[![](https://api.travis-ci.org/OHI-Science/lca.svg?branch=draft)](https://travis-ci.org/OHI-Science/lca/branches)","2014-11-26","e809d6e","automatically calculate_scores from commit dcfd9f0c6a89b97d42a233c2c15105c9d48dedda [ci_skip]","http://ohi-science.org/lca/images/regions_30x20.png",10
 "lka","Sri Lanka","[![](https://api.travis-ci.org/OHI-Science/lka.svg?branch=draft)](https://travis-ci.org/OHI-Science/lka/branches)","2014-11-26","3334d97","automatically calculate_scores from commit 0de7e33e2bedcaaef7fd36956b7304484e0db668 [ci_skip]","http://ohi-science.org/lka/images/regions_30x20.png",14
-"ltu","Lithuania","","","","","",
+"ltu","Lithuania","[![](https://api.travis-ci.org/OHI-Science/ltu.svg?branch=draft)](https://travis-ci.org/OHI-Science/ltu/branches)","2014-11-28","998e26a","automatically calculate_scores from commit 55eab4bcef6ee19f2357da2d9ea7ddad0abdbaf3 [ci_skip]","http://ohi-science.org/ltu/images/regions_30x20.png",
 "lva","Latvia","","","","","",
 "maf","Northern Saint-Martin","","","","","",
 "mar","Morocco","[![](https://api.travis-ci.org/OHI-Science/mar.svg?branch=draft)](https://travis-ci.org/OHI-Science/mar/branches)","2014-11-24","aa06e39","automatically calculate_scores from commit 49e3c6febe62f110646cdbeb4974bc6896b37ccb [ci_skip]","http://ohi-science.org/mar/images/regions_30x20.png",12
