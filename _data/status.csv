@@ -92,7 +92,7 @@
 "isr","Israel","Israel skipped because already at https://github.com/OHI-Science/ohi-israel","2014-11-28","","","",
 "ita","Italy","[![](https://api.travis-ci.org/OHI-Science/ita.svg?branch=draft)](https://travis-ci.org/OHI-Science/ita/branches)","2014-11-26","bba805e","automatically calculate_scores from commit 8debefcd03dd7b7b33d25c7485292b46d0ca1282 [ci_skip]","http://ohi-science.org/ita/images/regions_30x20.png",15
 "jam","Jamaica","[![](https://api.travis-ci.org/OHI-Science/jam.svg?branch=draft)](https://travis-ci.org/OHI-Science/jam/branches)","2014-11-26","6a245b6","automatically calculate_scores from commit 65962c1f8141985ae7d2ff4c818539f7e8278565 [ci_skip]","http://ohi-science.org/jam/images/regions_30x20.png",14
-"jey","Jersey","","","","","",
+"jey","Jersey","[![](https://api.travis-ci.org/OHI-Science/jey.svg?branch=draft)](https://travis-ci.org/OHI-Science/jey/branches)","2014-11-28","3a0c8c8","automatically calculate_scores from commit 449e5150deacd0f377271360c0457de23e171722 [ci_skip]","http://ohi-science.org/jey/images/regions_30x20.png",
 "jor","Jordan","[![](https://api.travis-ci.org/OHI-Science/jor.svg?branch=draft)](https://travis-ci.org/OHI-Science/jor/branches)","2014-11-24","7a18d23","automatically calculate_scores from commit d64edbf240fd1ea99ef1951bebb2c2449b433006 [ci_skip]","http://ohi-science.org/jor/images/regions_30x20.png",1
 "jpn","Japan","","","","","",
 "ken","Kenya","[![](https://api.travis-ci.org/OHI-Science/ken.svg?branch=draft)](https://travis-ci.org/OHI-Science/ken/branches)","2014-11-28","b4c6f00","automatically calculate_scores from commit 50b06d17ea31952dcc35a3ac16985bcc5a6c7a8a [ci_skip]","http://ohi-science.org/ken/images/regions_30x20.png",1
