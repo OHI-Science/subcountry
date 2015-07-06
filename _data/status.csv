@@ -219,4 +219,4 @@
 "xpx","Phoenix Group","Phoenix Group not found in GADM","2014-11-28","","","",
 "xwk","Wake Island","Wake Island not found in GADM","2014-11-28","","","",
 "yem","Yemen","[![](https://api.travis-ci.org/OHI-Science/yem.svg?branch=draft)](https://travis-ci.org/OHI-Science/yem/branches)","2014-11-29","5b9d9a3","automatically calculate_scores from commit bcb689e49bf25acd243ef3bf834a1a5577f4385a [ci skip]","http://ohi-science.org/yem/images/regions_30x20.png",9
-"zaf","South Africa","[![](https://api.travis-ci.org/OHI-Science/zaf.svg?branch=draft)](https://travis-ci.org/OHI-Science/zaf/branches)","2014-11-26","5f97933","automatically calculate_scores from commit 01b6525b8f9b9f64559af5208ea411a54c5ad200 [ci_skip]","http://ohi-science.org/zaf/images/regions_30x20.png",4
+"zaf","South Africa","[![](https://api.travis-ci.org/OHI-Science/zaf.svg?branch=draft)](https://travis-ci.org/OHI-Science/zaf/branches)","2015-07-06","4bf34e8","automatically calculate_scores from commit 0713118ab736a0297ec9ece1fec38483df0c5fe9 [ci_skip]","http://ohi-science.org/zaf/images/regions_30x20.png",4
