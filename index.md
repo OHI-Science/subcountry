@@ -2,17 +2,20 @@
 layout: default
 ---
 
+**Note**: this page is out of date. 
+
+
 The [subcountry:status.csv](https://github.com/OHI-Science/subcountry/blob/gh-pages/_data/status.csv) table is displayed below with the following links:
 
-- **Repo**: published website (from the gh-pages branch)
-- **Status**: the Travis log summary of branches (draft and gh-pages)
-- **Last Mod**: the Github repository, defaulting to the draft branch
+- **Assessment Area**: the assessment and website  (from the gh-pages branch)
+- **Repository**: the Github repository, defaulting to the draft branch
 - **Map**: the Github interactive map of the regions
+- **Regions**: the number of regions in the assessment area
 
 {: #status_tbl .display}
-| Repo | Study Area | Status | Last Mod | Map | Regions |
-|------|------------|--------|----------|-----|---------|
-{% for r in site.data.status %}| [{{ r.repo }}](http://ohi-science.org/{{ r.repo }}) | {{ r.study_area }} | {{ r.status }} | [{% if r.last_mod != "" %}{{ r.last_mod }}{% else %}---{% endif %}](http://github.com/OHI-Science/{{ r.repo }}) | [![]({{ r.map_url }})](https://github.com/OHI-Science/{{ r.repo }}/blob/draft/subcountry2014/spatial/regions_gcs.geojson) | {{ r.n_regions }} |
+| Assessment Area | Repository | Map | Regions |
+|-----------------|------------|-----|---------|
+{% for r in site.data.status %}| [{{ r.study_area }}](http://ohi-science.org/{{ r.repo }}) | [{{ r.repo }}](http://github.com/OHI-Science/{{ r.repo }}) | [![]({{ r.map_url }})](https://github.com/OHI-Science/{{ r.repo }}/blob/draft/subcountry2014/spatial/regions_gcs.geojson) | {{ r.n_regions }} |
 {% endfor %}
 
 <script type="text/javascript">
